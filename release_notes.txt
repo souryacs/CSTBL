@@ -1,0 +1,14 @@
+Version 0.1 (pre-release)
+-------------------------------
+
+This version contains the basic source code, where input supertree topology is assigned branch length 
+values, according to the weights of the input trees.
+
+Version 0.2 (First major release)
+-----------------------------------------
+
+1) Here, few coding sections are modified. Running time is reduced due to efficient postorder traversal of the trees.
+
+2) Code is cleaned and comments are modified.
+
+3) Command line option to include the executable path (absolute or relative) is appended at the code.
